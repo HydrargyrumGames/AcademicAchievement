@@ -30,6 +30,9 @@
 ### Holder of the "Certificate of Honor" for two consecutive years in the Math Kangaroo Competition during 6th (Left Certs.) & 8th (Right Certs.) grades:
 ![Kang0](https://user-images.githubusercontent.com/102142095/194944693-7c276e66-733a-43ad-8449-4e1e7392e078.jpg)
 
+## Mathematics Without Borders -Bulgaria Competition:
+### 1st & 2nd place Medal winner in the Winter (Bottem Left Cert.) & Spring (Bottom Right Cert.) rounds of the National Stages of Mathematics Without Borders Competition
+### Bronze Medal & Certification of Honor winner in the International/ Final Round of Mathematics Without Borders Competition (Top Left: Team Comp. Cert. & Top Right: Personal Comp. Cert.)
 
 
 # 🗞8th Grade School Reports Card:
