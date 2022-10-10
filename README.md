@@ -38,7 +38,15 @@
 # Sports Achievments:
 ![Sport](https://user-images.githubusercontent.com/102142095/194952508-6a03792f-72b8-498f-be44-ab994091f3bb.jpg)
 
+# Extra Activities
+## Avid Lego Builder & Enthusiast with the following certificates from the official LEGO Education Group:
+![Lego](https://user-images.githubusercontent.com/102142095/194953395-3c7d3f5b-bd4a-4a56-a6ff-a207dc2c98ee.jpg)
 
+
+
+# English Languge
+## Iran Language Institute Advanced Level Graduate with a "Very Good" Average rating:
+![Screenshot_20220217-210925_Chrome](https://user-images.githubusercontent.com/102142095/194953908-48cdca03-c64c-4f0e-87c1-7c01bdcd8e6b.jpg)
 
 # 🗞8th Grade School Reports Card:
 ## 🇮🇷 Un-translated/ Original Perisan Report Card:
