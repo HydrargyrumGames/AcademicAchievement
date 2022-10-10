@@ -20,6 +20,12 @@
 
 ## SASMO Awards:
 ### Iran's 1st place holder and Winner of The Gold Medal/ Award for 2 consecutive years in the "Singapore and Asian Schools Math Olympiad" during 7th (Top Cert.) & 8th (Bottom Cert.) grades:
+![SASMO](https://user-images.githubusercontent.com/102142095/194940875-51a7b3a7-7550-4453-ad2a-a8ff208da5b4.jpg)
+
+## Mobtakeran Iranian Mathematical Youth Olympiad Awards:
+### 26th place winner in the entire country of Iran & holder of the bronze medal of the Mobtakeran Math Olympiad:
+![Mobt](https://user-images.githubusercontent.com/102142095/194941948-f1e137f0-7493-43c7-8e3d-7c53630b7a72.jpg)
+
 
 
 
