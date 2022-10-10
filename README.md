@@ -26,6 +26,9 @@
 ### 26th place winner in the entire country of Iran & holder of the bronze medal of the Mobtakeran Math Olympiad:
 ![Mobt](https://user-images.githubusercontent.com/102142095/194941948-f1e137f0-7493-43c7-8e3d-7c53630b7a72.jpg)
 
+## Math Kangaroo Competition: 
+### Holder of the "Certificate of Honor" for two consecutive years in the Math Kangaroo Competition during 6th (Left Certs.) & 8th (Right Certs.) grades:
+![Kang0](https://user-images.githubusercontent.com/102142095/194944693-7c276e66-733a-43ad-8449-4e1e7392e078.jpg)
 
 
 
