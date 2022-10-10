@@ -1,6 +1,5 @@
 # Sadra Khaleghi Academic Achievements & School Report Cards
-### Please be patient while Images are being Loaded
-
+### 📡Please be patient while Images are being Loaded📡
 
 # 🥇 Academic Achievements & Certificates
 ## Jabir-Ibn-Hayyan Competition: (Elected twice as the national winner during 2nd & 3rd grades)
@@ -16,6 +15,11 @@
 ![BDA](https://user-images.githubusercontent.com/102142095/194931460-d904f7a5-d26a-4da8-8956-5ecd0fe638a2.jpg)
 
 ## Art
+### Creative Painting Competition (Left Cert.) is a competition held anually by the national ministry of education with the sole aim of measuring a students creativity over their actual drawing capabilities; I was able to be one of the winners on this competition during 3rd grade!
+![ArtK](https://user-images.githubusercontent.com/102142095/194937989-f05097bc-c0ab-4213-b6ef-0ea27c6cb81d.jpg)
+
+## SASMO Awards:
+### Iran's 1st place holder and Winner of The Gold Medal/ Award for 2 consecutive years in the "Singapore and Asian Schools Math Olympiad" during 7th (Top Cert.) & 8th (Bottom Cert.) grades:
 
 
 
