@@ -4,7 +4,7 @@
 # 🥇 Academic Achievements & Certificates
 ## Jabir-Ibn-Hayyan Competition: (Elected twice as the national winner during 2nd & 3rd grades)
 ### Jabir ibn Hayyan Competition is a scientific research competition held annually between elementary school students by the national ministry of education; The main goal of this competition is to create a research spirit in students and to furthermore teach them research methods for larger research projects in their future!
-### Research Topic during 2nd Grade: Solar & Lunar Eclipses (Left)
+#### Research Topic during 2nd Grade: Solar & Lunar Eclipses (Left)
 ### Research Topic during 3rd Grade: Earthquakes & the Triangle of Life (Right)
 ![JIH](https://user-images.githubusercontent.com/102142095/194927861-fcfe88e4-f002-44f3-97c1-13e8535d75f1.jpg)
 
