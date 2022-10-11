@@ -59,7 +59,10 @@
 
 # 🗞9th Grade School Reports Card:
 ## Original Report Card (Top Image) & Translated Version (Bottom Image):
+![Rep9](https://user-images.githubusercontent.com/102142095/195130801-a661628a-3c5f-4570-aae4-205276755046.jpg)
 
 
 # 🗞10th Grade School Reports Card:
 ## Original Report Card (Top Image) & Translated Version (Bottom Image):
+![R10](https://user-images.githubusercontent.com/102142095/195131212-a635dac5-4aa3-4820-b224-41192df8cce1.jpg)
+
