@@ -5,13 +5,13 @@
 ## Jabir-Ibn-Hayyan Competition: (Elected twice as the national winner during 2nd & 3rd grades)
 ### Jabir ibn Hayyan Competition is a scientific research competition held annually between elementary school students by the national ministry of education; The main goal of this competition is to create a research spirit in students and to furthermore teach them research methods for larger research projects in their future!
 #### Research Topic during 2nd Grade: Solar & Lunar Eclipses (Left)
-### Research Topic during 3rd Grade: Earthquakes & the Triangle of Life (Right)
+#### Research Topic during 3rd Grade: Earthquakes & the Triangle of Life (Right)
 ![JIH](https://user-images.githubusercontent.com/102142095/194927861-fcfe88e4-f002-44f3-97c1-13e8535d75f1.jpg)
 
 ## Basij -e- DaneshAmoozi Competition: (Elected as the national winner during 4th grade & as the regional top winner during 5th grade)
 ### Basij -e- DaneshAmoozi is a competition held annually by the National Basij Organization; The exam with it’s rather difficult question challenges students on multiple subjects ranging from mathematics to sciences and literature; With the valuable prizes awarded to the best competitors, this competition is the best in class for intelligent and determined students;
-### National Top Winner during 4th Grade (Left)
-### Regional Top Winner during 5th Grade (Right)
+#### National Top Winner during 4th Grade (Left)
+#### Regional Top Winner during 5th Grade (Right)
 ![BDA](https://user-images.githubusercontent.com/102142095/194931460-d904f7a5-d26a-4da8-8956-5ecd0fe638a2.jpg)
 
 ## Art
@@ -35,17 +35,17 @@
 ### Bronze Medal & Certification of Honor winner in the International/ Final Round of Mathematics Without Borders Competition (Top Left: Team Comp. Cert. & Top Right: Personal Comp. Cert.)
 ![mwbb](https://user-images.githubusercontent.com/102142095/194949595-d961ca6f-f563-4c9e-b445-1992710b4fa2.jpg)
 
-# Sports Achievments:
+## Sports Achievments:
 ![Sport](https://user-images.githubusercontent.com/102142095/194952508-6a03792f-72b8-498f-be44-ab994091f3bb.jpg)
 
-# Extra Activities
-## Avid Lego Builder & Enthusiast with the following certificates from the official LEGO Education Group:
+## Extra Activities
+### Avid Lego Builder & Enthusiast with the following certificates from the official LEGO Education Group:
 ![Lego](https://user-images.githubusercontent.com/102142095/194953395-3c7d3f5b-bd4a-4a56-a6ff-a207dc2c98ee.jpg)
 
 
 
-# English Languge
-## Iran Language Institute Advanced Level Graduate with a "Very Good" Average rating:
+## English Languge 
+### Iran Language Institute Advanced Level Graduate with a "Very Good" Average rating:
 ![Screenshot_20220217-210925_Chrome](https://user-images.githubusercontent.com/102142095/194953908-48cdca03-c64c-4f0e-87c1-7c01bdcd8e6b.jpg)
 
 # 🗞8th Grade School Reports Card:
