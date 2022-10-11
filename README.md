@@ -53,18 +53,13 @@
 ![Screenshot_20220217-210925_Chrome](https://user-images.githubusercontent.com/102142095/194953908-48cdca03-c64c-4f0e-87c1-7c01bdcd8e6b.jpg)
 
 # 🗞8th Grade School Reports Card:
-## 🇮🇷 Original Report Card:
-![R8-1](https://user-images.githubusercontent.com/102142095/194921466-b2d6b92a-e403-4195-889f-80b4e1a370c0.jpg)
-## 🇺🇲 Translated English Report Card: 
-![R8-2](https://user-images.githubusercontent.com/102142095/194922120-2e31c04b-2a56-4daa-b0bc-ae9d9ccac6ae.jpg)
+## Original Report Card (Top Image) & Translated Version (Bottom Image):
+![R8](https://user-images.githubusercontent.com/102142095/195127601-3ebcb129-00f6-400e-bfae-6f90c2c710aa.jpg)
+
 
 # 🗞9th Grade School Reports Card:
-## 🇮🇷 Original Report Card:
-![R9-1](https://user-images.githubusercontent.com/102142095/194922609-ec506ed6-84d9-4d14-b82e-6920aa2bf4d2.jpg)
-## 🇺🇲 Translated English Report Card: 
-![R9-2](https://user-images.githubusercontent.com/102142095/194922716-447402ce-4239-4846-904f-92c3fee68310.jpg)
+## Original Report Card (Top Image) & Translated Version (Bottom Image):
+
 
 # 🗞10th Grade School Reports Card:
-## 🇮🇷 Original Report Card:
-
-## 🇺🇲 Translated English Report Card: 
+## Original Report Card (Top Image) & Translated Version (Bottom Image):
