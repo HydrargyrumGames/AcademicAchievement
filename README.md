@@ -49,16 +49,3 @@
 # 🥇English Languge 
 ### Iran Language Institute Advanced Level Graduate with a "Very Good" Average rating:
 ![Screenshot_20220217-210925_Chrome](https://user-images.githubusercontent.com/102142095/194953908-48cdca03-c64c-4f0e-87c1-7c01bdcd8e6b.jpg)
-
-# 🗞8th Grade School Reports Card:
-### Original Report Card (Top Image) & Translated Version (Bottom Image):
-![R8](https://user-images.githubusercontent.com/102142095/195127601-3ebcb129-00f6-400e-bfae-6f90c2c710aa.jpg)
-
-# 🗞9th Grade School Reports Card:
-### Original Report Card (Top Image) & Translated Version (Bottom Image):
-![Rep9](https://user-images.githubusercontent.com/102142095/195130801-a661628a-3c5f-4570-aae4-205276755046.jpg)
-
-# 🗞10th Grade School Reports Card:
-### Original Report Card (Top Image) & Translated Version (Bottom Image):
-![R10](https://user-images.githubusercontent.com/102142095/195131212-a635dac5-4aa3-4820-b224-41192df8cce1.jpg)
-
